@@ -16,7 +16,7 @@ role: Assistant Professor of Geophysics
 organizations:
 - name: King Fahd University of Petroleum and Minerals
   url: ""
-- name: umair[dot]waheed[at]kfupm[dot]edu[dot]sa
+- name: umair.waheed@kfupm.edu.sa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
