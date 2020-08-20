@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Umair bin Waheed
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistanr Professor of Geophysics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: King Fahd University of Petroleum and Minerals
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Earth Science & Engineering
+    institution: King Abdullah University of Science and Technology
+    year: 2015
+  - course: MS in Electronic Engineering
+    institution: Politecnico di Torino
+    year: 2010
+  - course: BE in Electronic Engineering
+    institution: NED University of Engineering & Technology
     year: 2008
 
 # Social/Academic Networking
@@ -42,23 +42,23 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/umairbinwaheed
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PtAs66gAAAAJ&hl=en&oi=ao
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCM_uEQ0_kHLb3keJ_njxHfA/videos
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This website is under construction.
