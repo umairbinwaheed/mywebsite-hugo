@@ -10,11 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistanr Professor of Geophysics
+role: Assistant Professor of Geophysics
 
 # Organizations/Affiliations
 organizations:
 - name: King Fahd University of Petroleum and Minerals
+  url: ""
+- name: umair[dot]waheed[at]kfupm[dot]edu[dot]sa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
