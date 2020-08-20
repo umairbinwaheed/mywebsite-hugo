@@ -23,9 +23,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied machine learning
+- Passive seismology
+- Seismic modeling/inversion
+- Scientific communication
 
 education:
   courses:
@@ -47,12 +48,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/umairbinwaheed
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PtAs66gAAAAJ&hl=en&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://github.com/umairbinwaheed
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCM_uEQ0_kHLb3keJ_njxHfA/videos
