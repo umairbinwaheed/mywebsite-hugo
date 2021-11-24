@@ -94,7 +94,7 @@ phone = "+966-13-860-2297"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = {street = "Room 1254", city = "Bulding 76", postcode = "King Fahd University of Petroleum and Minerals", country = "Saudi Arabia", country_code = "KSA"}
+address = {street = "Room 1254", city = "Building 76", postcode = "King Fahd University of Petroleum and Minerals", country = "Saudi Arabia", country_code = "KSA"}
 
 
 # Geographic coordinates

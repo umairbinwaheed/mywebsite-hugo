@@ -75,5 +75,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi, my name is Umair!
-This website is under construction.
+I am an Assistant Professor of Geophysics at King Fahd University of Petroleum and Minerals (KFUPM). My research interests are broadly in the area of computational geosciences. Specifically, I am interested in automating and improving workflows through the use of smart algorithms for enhanced decision making in subsurface energy systems. I graduated from King Abdullah University of Science and Technology with a Ph.D. in Earth Science & Engineering. Prior to joining KFUPM, I was a postdoctoral fellow at the Department of Geosciences and writing in science and engineering fellow at the Princeton Writing Program, Princeton University.

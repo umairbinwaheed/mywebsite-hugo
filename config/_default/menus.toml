@@ -24,9 +24,14 @@
   weight = 40
 
 [[main]]
-  name = "Scientific Writing"
-  url = "#scientific-writing"
+  name = "Posts"
+  url = "#posts"
   weight = 50
+
+[[main]]
+  name = "Scientific Writing"
+  url = "courses"
+  weight = 60
 
 [[main]]
   name = "News"
